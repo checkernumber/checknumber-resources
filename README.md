@@ -13,6 +13,7 @@ Browse the [Issues](https://github.com/checkernumber/checknumber-resources/issue
 - Phone number verification and validation
 - Number lookup APIs and integrations
 - WhatsApp and messaging number checks
+- Bulk verification pipelines (submitting tasks, polling for `exported` status, and handling 400/402/413/503 responses)
 - Data quality and verification best practices
 
 ## Official Website
